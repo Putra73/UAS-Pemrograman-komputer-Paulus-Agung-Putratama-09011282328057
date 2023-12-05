@@ -1,1 +1,1 @@
-# UAS-Pemrograman-komputer-Paulus-Agung-Putratama-09011282328057
+Saya Paulus Agung Putratama dari Universitas Sriwijaya fakultas Ilmu Komputer Prodi Sistem Komputer telah menyelesaikan UAS Program Komputer dan mengumpulkannya di Repositor ini
